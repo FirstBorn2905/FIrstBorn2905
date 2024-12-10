@@ -1,5 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning software development... and i might need some advices
 
+![Website](https://rigosweb.com)
 <!--
 **FirstBorn2905/FirstBorn2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
